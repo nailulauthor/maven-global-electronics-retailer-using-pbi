@@ -41,11 +41,35 @@ During the 2016–2020 period, sales performance was examined to identify potent
 
 The monthly Sales History Line visualizations for each year are presented in Figures 1 through 5.
 
-![Sales History Line 2016](assets/sales-history-line-2016.png)
-![Sales History Line 2017](assets/sales-history-line-2017.png)
-![Sales History Line 2018](assets/sales-history-line-2018.png)
-![Sales History Line 2019](assets/sales-history-line-2019.png)
-![Sales History Line 2020](assets/sales-history-line-2020.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>2016</b><br>
+      <img src="assets/sales-history-line-2016.png" width="100%">
+    </td>
+    <td align="center">
+      <b>2017</b><br>
+      <img src="assets/sales-history-line-2017.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>2018</b><br>
+      <img src="assets/sales-history-line-2018.png" width="100%">
+    </td>
+    <td align="center">
+      <b>2019</b><br>
+      <img src="assets/sales-history-line-2019.png" width="100%">
+    </td>
+   
+  </tr>
+   <tr>
+       <td align="center">
+      <b>2020</b><br>
+      <img src="assets/sales-history-line-2020.png" width="100%">
+    </td>
+   </tr>
+</table>
 
 Based on the Sales History Line visualizations in Figures 1 through 5, potential seasonal patterns can be observed in sales performance throughout the 2016–2020 period. From 2016 to 2019, sales performance generally declined between February and April, followed by an upward trend from May through December. This pattern is reflected in the movements of orders, revenue, and profit. Meanwhile, 2020 shows a potential change in the trend, particularly as sales performance tends to decline from May through December. To quantify these changes, further analysis was conducted using growth rates and comparisons of actual values across the months that exhibited these patterns.
 
